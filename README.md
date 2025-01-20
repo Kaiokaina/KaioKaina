@@ -1,8 +1,8 @@
 ## Óla! Sou o kaio kainã 🖖 
 
-🛠️📱  Hoje sou Técnico em Dispositivos móveis 
-🖥️ Estudando Para me tornar DEV
-🙃  Pronome: ele/dele
+Trabalho atualmente em um posto de combustiveis como frentista, estou me qualificando para migrar de carreira e ir para área de desenvolvimento.
+tenho algumas formações como: HTML,CSS,JAVASCRIPT,TYPESCRIPT,NODEJS,ANGOLAR, SPA/SSR/SSG e continuo buscando conhecimentos para tornar-me qualificado
+o bastante para preencher uma vaga na área com êxito e exelência.
 
 <div style="display: inline_block"><br>
 <img align="center"alt="kaio-HTML"height="40"width="40"src="https://user-images.githubusercontent.com/128096382/232632388-a6145c33-1861-4ba1-a1e5-dbd917a868de.png">
