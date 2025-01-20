@@ -9,7 +9,6 @@
 <img align="center"alt="kaio-CSS"height="40"width="40"src="https://user-images.githubusercontent.com/128096382/232633025-b755be1d-e3f2-4dbf-ae06-7b415b289c7d.png">
 <img align="center"alt="kaio-JS"height="40"width="40"src="https://user-images.githubusercontent.com/128096382/232633261-affb100d-5ab7-4602-9973-0359256696d9.png">
 <img align="center"alt="kaio-TS"height="40"width="40"src="https://user-images.githubusercontent.com/128096382/232633410-e5a970e7-92e6-46c9-912d-c66cb1e0dad7.png">
-<img align="center"alt="kaio-REACT"height="40"width="40"src="https://user-images.githubusercontent.com/128096382/232633625-c7cecce1-3de8-40f8-99a2-151fb6b02059.png">
 <img align="center"alt="kaio-NODEJS"height="40"width="40"src="https://user-images.githubusercontent.com/128096382/232633801-f02b28e2-98b1-4061-a639-1a93521007dd.png">
 </div>
  
